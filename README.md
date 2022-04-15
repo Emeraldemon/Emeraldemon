@@ -1,9 +1,3 @@
-# Programming profiles
-<p>
-   <a href="https://www.hackerrank.com/Oreliuz"><img src="https://wizardsourcer.com/wp-content/uploads/2021/10/HackerRank-logo.png" alt="HACKERRANK"/></a>
-   <a href="https://replit.com/"><img src="https://www.vectorlogo.zone/logos/replit/replit-ar21.png" alt="Repl.it"/></a>
- 
-</p>
 # Tools 
 <p>
     <a href="#"><img alt="GitHub" src="https://img.shields.io/badge/Editor-Visual%20Studio%20Code-blue"></a>
