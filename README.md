@@ -6,9 +6,9 @@
     <a href="#"><img alt="GitHub" src="https://img.shields.io/badge/Code-Python-brightgreen"></a>
     <a href="#"><img alt="GitHub" src="https://img.shields.io/badge/Code-HTML-brightgreen"></a>
     <a href="#"><img alt="GitHub" src="https://img.shields.io/badge/Code-CSS-brightgreen"></a>
-    <a href="#"><img alt="GitHub" src=" https://img.shields.io/badge/Editor-Dreamweaver-blue"></a>
-    <a href="#"><img alt="GitHub" src=" https://img.shields.io/badge/Notebook-Jupyter-blue"></a>
-    <a href="#"><img alt="GitHub" src=" https://img.shields.io/badge/Editor-Pycharm-blue"></a>
+    <a href="#"><img alt="GitHub" src="https://img.shields.io/badge/Editor-Dreamweaver-blue"></a>
+    <a href="#"><img alt="GitHub" src="https://img.shields.io/badge/Notebook-Jupyter-blue"></a>
+    <a href="#"><img alt="GitHub" src="https://img.shields.io/badge/Editor-Pycharm-blue"></a>
 </p>
 
 
