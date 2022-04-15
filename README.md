@@ -3,6 +3,10 @@
 <p> 
 <p align="center">
     <a href="#"><img alt="GitHub" src="https://img.shields.io/badge/Editor-Visual%20Studio%20Code-blue"></a>
+    <a href="#"><img alt="GitHub" src="https://img.shields.io/badge/Social-Discord-red"></a>
+    <a href="#"><img alt="GitHub" src="https://img.shields.io/badge/Code-Python-brightgreen"></a>
+    <a href="#"><img alt="GitHub" src="https://img.shields.io/badge/Code-HTML-brightgreen"></a>
+    <a href="#"><img alt="GitHub" src="https://img.shields.io/badge/Code-CSS-brightgreen"></a>
 </p>
 
 
