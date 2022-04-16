@@ -9,7 +9,13 @@
     <a href="#"><img alt="GitHub" src="https://img.shields.io/badge/Notebook-Jupyter-blue"></a>
     <a href="#"><img alt="GitHub" src="https://img.shields.io/badge/Editor-Pycharm-blue"></a>
 </p>
-
+# Stats
+<p>
+<a href="https://github.com/Emeraldemon/github-readme-stats"><img alt="Github Stats" src="https://github-readme-stats.vercel.app/api?username=Emeraldemon&show_icons=true&count_private=true&theme=algolia" height="192px"/></a>
+<br/>
+  &nbsp;
+	  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Emeraldemon&langs_count=10&show_icons=true&locale=en&layout=compact&theme=algolia" alt="Emeraldemon" height="192px"/><br/>
+</p>
 
 
 
