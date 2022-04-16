@@ -1,6 +1,5 @@
-# Hi! 
-Welcome to my profile...
-
+# Welcome
+<a href="#" align="left"><img src="https://cdn.discordapp.com/attachments/907980380974481430/964753089074712606/unknown.png" height = "300px" width = "600px"></a>
 ## Likes
 <ul>
 <li>Lofi music</li>
@@ -28,6 +27,8 @@ Welcome to my profile...
     <a href="#"><img alt="GitHub" src="https://img.shields.io/badge/Editor-Dreamweaver-blue"></a>
     <a href="#"><img alt="GitHub" src="https://img.shields.io/badge/Notebook-Jupyter-blue"></a>
     <a href="#"><img alt="GitHub" src="https://img.shields.io/badge/Editor-Pycharm-blue"></a>
+    <a href="#"><img alt="GitHub" src="https://img.shields.io/badge/OS-Kali%20Linux-orange"></a>
+    <a href="#"><img alt="GitHub" src="https://img.shields.io/badge/OS-Win-orange"></a>
 </p>
 
 ## Non-coding projects
